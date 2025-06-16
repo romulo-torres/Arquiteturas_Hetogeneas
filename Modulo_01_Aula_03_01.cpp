@@ -13,7 +13,7 @@ int main () {
 // Create images
 
 ofstream image_Input;
-image_Input.open("./Imagem.ppm");
+image_Input.open("./Imagens/Imagem.ppm");
 
 // Image Header
 // The part above is the header
